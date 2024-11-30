@@ -1,7 +1,7 @@
 import Navbar from './components/navbar.jsx';
 import GamesGrp from './components/gamesgroup.jsx';
 import Game from './components/game.jsx';
-import styles from './styles/Home.module.css';
+import styles from './styles/home.module.css';
 
 export default function Home() {
   const games = [
